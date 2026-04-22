@@ -1,4 +1,4 @@
-# Dance Knowledge Base
+# Whacking Infodump
 
 ## Table of Contents
 
