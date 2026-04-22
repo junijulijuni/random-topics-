@@ -1,16 +1,5 @@
 # whacking berlin github
 
-<!-- PROTECTED_SECTION_START -->
-
-![Whacking Berlin Logo](wbLogo.JPG "Whacking Berlin Logo")
-# This is your protected content
-It can be **anything** you want to preserve:
-- Custom notes
-- Important links
-- Contributor guidelines
-<!-- PROTECTED_SECTION_END -->
-
-
 ## Table of Contents
 
 - [CONTRIBUTING](CONTRIBUTING.md)
@@ -24,3 +13,11 @@ It can be **anything** you want to preserve:
         - [links](links.md)
     - [pose_inspiration](pose_inspiration.md)
 
+<!-- PROTECTED_SECTION_START -->
+![Whacking Berlin Logo](wbLogo.JPG "Whacking Berlin Logo")
+# This is your protected content
+It can be **anything** you want to preserve:
+- Custom notes
+- Important links
+- Contributor guidelines
+<!-- PROTECTED_SECTION_END -->
