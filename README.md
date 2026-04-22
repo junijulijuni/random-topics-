@@ -1,12 +1,4 @@
-# Whacking Infodump
-
-<!-- PROTECTED_SECTION_START -->
-# This is your protected content
-It can be **anything** you want to preserve:
-- Custom notes
-- Important links
-- Contributor guidelines
-<!-- PROTECTED_SECTION_END -->
+# whacking berlin github
 
 ## Table of Contents
 
@@ -20,3 +12,11 @@ It can be **anything** you want to preserve:
       - [sources](sources)
         - [links](links.md)
     - [pose_inspiration](pose_inspiration.md)
+
+<!-- PROTECTED_SECTION_START -->
+# This is your protected content
+It can be **anything** you want to preserve:
+- Custom notes
+- Important links
+- Contributor guidelines
+<!-- PROTECTED_SECTION_END -->
