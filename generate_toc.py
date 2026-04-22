@@ -14,18 +14,30 @@ def extract_protected_section(readme_content):
     match = pattern.search(readme_content)
     return match.group(1).strip() if match else None
 
-def generate_toc(path, indent=0):
+def generate_toc(path, indent=0, root_path=None):
     """Generate the table of contents for the repository."""
+    if root_path is None:
+        root_path = path
+    
     toc = []
     for item in sorted(os.listdir(path)):
         item_path = os.path.join(path, item)
+        
         if os.path.isdir(item_path):
             if item.startswith('.'):
                 continue
-            toc.append("  " * indent + f"- [{item}]({item})")
-            toc.extend(generate_toc(item_path, indent + 1))
+            # Get relative path from root for the link
+            rel_path = os.path.relpath(item_path, root_path)
+            toc.append("  " * indent + f"- [{item}]({rel_path})")
+            toc.extend(generate_toc(item_path, indent + 1, root_path))
+            
         elif item.endswith('.md') and item != 'README.md':
-            toc.append("  " * indent + f"- [{item[:-3]}]({item})")
+            # Get relative path including directory
+            rel_path = os.path.relpath(item_path, root_path)
+            # Remove .md extension for display name, keep full path for link
+            display_name = rel_path[:-3]  # removes .md
+            toc.append("  " * indent + f"- [{display_name}]({rel_path})")
+    
     return toc
 
 def main():
