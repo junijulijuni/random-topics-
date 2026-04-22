@@ -1,6 +1,6 @@
-# whacking berlin github
-
 <!-- PROTECTED_SECTION_START -->
+
+#whacking berlin github
 
 ![Whacking Berlin Logo](wbLogo.JPG "Whacking Berlin Logo")
 # This is your protected content
@@ -9,6 +9,7 @@ It can be **anything** you want to preserve:
 - Important links
 - Contributor guidelines
 <!-- PROTECTED_SECTION_END -->
+
 
 ## Table of Contents
 
