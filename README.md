@@ -1,22 +1,14 @@
-# random-topics
-a space to collect info from the random topics group
+# Dance Knowledge Base
 
+## Table of Contents
 
-# Table of Contents
-
-## 📚 Knowledge Base
-
-### [Dancing](/dancing)
-  - [Whacking](/dancing/whacking)
-      - [History](/dancing/whacking/history)
-          - [Texts](/dancing/whacking/history/history_texts.md)
-      - [posing/punking inspo](/dancing/whacking/pose_inspiration.md)
-  -  [Dancer Health ❤️](/dancing/health)  
-      - [earplug recommendations](/dancing/health/earplug_recommendations.md)
----
-
-## 📝 How the hell does this work??
-- [Contribution Guidelines](CONTRIBUTING.md)
-- [How to Add a New Topic](how-to-add.md) (add file)
-
----
+- [CONTRIBUTING](CONTRIBUTING.md)
+- [dancing](dancing)
+  - [health](health)
+    - [earplug_recommendations](earplug_recommendations.md)
+  - [whacking](whacking)
+    - [history](history)
+      - [history_texts](history_texts.md)
+      - [sources](sources)
+        - [links](links.md)
+    - [pose_inspiration](pose_inspiration.md)
