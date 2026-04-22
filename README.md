@@ -1,6 +1,6 @@
-<!-- PROTECTED_SECTION_START -->
-
 #whacking berlin github
+
+<!-- PROTECTED_SECTION_START -->
 
 ![Whacking Berlin Logo](wbLogo.JPG "Whacking Berlin Logo")
 # This is your protected content
