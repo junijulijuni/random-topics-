@@ -7,11 +7,11 @@
   - [health](health)
     - [earplug_recommendations](earplug_recommendations.md)
   - [whacking](whacking)
+    - [Music](Music.md)
     - [history](history)
       - [history_texts](history_texts.md)
       - [sources](sources)
         - [links](links.md)
-    - [music](music.md)
     - [pose_inspiration](pose_inspiration.md)
 
 <!-- PROTECTED_SECTION_START -->
