@@ -1,5 +1,5 @@
 # whacking berlin github
-
+![Whacking Berlin Logo](wbLogo.JPG)
 ## Table of Contents
 
 - [CONTRIBUTING](CONTRIBUTING.md)
