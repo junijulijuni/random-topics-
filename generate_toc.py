@@ -14,7 +14,7 @@ def generate_toc(path, indent=0):
     return toc
 
 def main():
-    toc = ["# Dance Knowledge Base", "", "## Table of Contents", ""] + generate_toc('.')
+    toc = ["# Whacking Infodump", "", "## Table of Contents", ""] + generate_toc('.')
     with open('README.md', 'w') as f:
         f.write('\n'.join(toc))
 
