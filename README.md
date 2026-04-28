@@ -17,5 +17,5 @@
 <!-- PROTECTED_SECTION_START -->
 Hello to all the newcomers :) so far this github has a basic folder structure for organizing topics and markdown files as topic pages.
 I vibecoded the automated table of contents, so if an experienced person looks at it and says what the hell is this, I am happy work together to improve the code.
-Please feel free to fork the repo or post ideas using the "issues" tab. If you tell me who you are I can add you as a collaborator 
+Please feel free to fork the repo or post ideas using the "issues" tab. If you tell me who you are I can add you as a collaborator
 <!-- PROTECTED_SECTION_END -->
