@@ -1,10 +1,10 @@
 # Dance & Club Culture – 
 
-# Documentaries & Footage
+## Documentaries & Footage
 
-# Documentaries
+### Documentaries
 
-### House Culture NYC
+#### House Culture NYC
 
 Check Your Body At The Door  
 [https://www.checkyourbodyatthedoor.com/](https://www.checkyourbodyatthedoor.com/)
@@ -32,13 +32,13 @@ House of Tres – NYC ball and house culture in the 80s
 Disco’s Revenge  
 [https://www.discos-revenge.com/](https://www.discos-revenge.com/)
 
-### Chicago
+#### Chicago
 
 [House Music: A Cultural Revolution – A Chicago Stories Documentary](https://www.youtube.com/watch?v=05hgPwaJFUc)
 
 [From Jack to Juke | 25+ Years of Ghetto House](https://www.youtube.com/watch?v=h8ETZdGq0So)
 
-### Detroit
+#### Detroit
 
 [Techno City: What is Detroit Techno?](https://www.youtube.com/watch?v=a2gr73FQ9-s)
 
@@ -55,7 +55,7 @@ Heaven in Detroit
 The Jitterbugs: Pioneers of the Jit (2014)  
 [http://www.detroitjitterbugs.com/](http://www.detroitjitterbugs.com/)
 
-# Footage
+## Footage
 
 ### NYC
 
